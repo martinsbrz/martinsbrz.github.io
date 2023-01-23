@@ -1,0 +1,72 @@
+[
+    {
+        "semana": 1,
+        "series": 3,
+        "repeticoes": 12,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "base"
+    },
+    {
+        "semana": 2,
+        "series": 3,
+        "repeticoes": 12,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "base"
+    },
+    {
+        "semana":3,
+        "series": 3,
+        "repeticoes": 12,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "base"
+    },
+    {
+        "semana": 4,
+        "series": 3,
+        "repeticoes": 10,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "base"
+    },
+    {
+        "semana":5,
+        "series": 3,
+        "repeticoes": 10,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "base"
+    },
+    {
+        "semana": 6,
+        "series": 3,
+        "repeticoes": 8,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "força"
+    },
+    {
+        "semana":7,
+        "series": 3,
+        "repeticoes": 6,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "força pura"
+    },
+    {
+        "semana": 8,
+        "series": 3,
+        "repeticoes": 12,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "regenerativo"
+    },
+    {
+        "semana": 9,
+        "series": 3,
+        "repeticoes": 10,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "base"
+    },
+    {
+        "semana":10,
+        "series": 3,
+        "repeticoes": 10,
+        "divisao": "1 warm up / 2 working set / 1 top sett",
+        "fase": "base"
+    }
+]

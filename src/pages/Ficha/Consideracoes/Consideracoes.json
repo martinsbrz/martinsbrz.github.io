@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "RIR",
+        "descricao": "repetições na reserva"
+    },
+    {
+        "nome": "WARM UP",
+        "descricao": "aquecimento - mais de 6 RIR"
+    },
+    {
+        "nome": "FEEDER SET",
+        "descricao": "1-5 RIR (sem falha)"
+    },
+    {
+        "nome": "TOP SET",
+        "descricao": "falha concêntrica ou total"
+    },
+    {
+        "nome": "HARD SET",
+        "descricao": "falha concêntrica ou total"
+    },
+    {
+        "nome": "WORKING SET",
+        "descricao": "1-3 RIR ou falha concêntrica"
+    }
+]
